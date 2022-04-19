@@ -2,7 +2,7 @@ require('@nomiclabs/hardhat-waffle');
 require('@nomiclabs/hardhat-etherscan');
 require('dotenv').config();
 
-const { MUMBAI_API_URL, ROPSTEN_API_URL,RINKEBY_API_URL, PRIVATE_KEY, ETHERSCAN_KEY } =
+const { MUMBAI_API_URL, MATIC_API_URL,ETHEREUM_API_URL,ROPSTEN_API_URL,RINKEBY_API_URL, PRIVATE_KEY, ETHERSCAN_KEY } =
   process.env;
 
 module.exports = {
