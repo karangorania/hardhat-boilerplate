@@ -78,7 +78,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd crowd-sale
+  cd hardhat-boilerplate
 ```
 
 Install dependencies
@@ -128,7 +128,10 @@ Deploy on Ropsten
 ```bash
   npx hardhat run scripts/deploy.js --network matic
 ```  
-
+Verify Contract
+```bash
+npx hardhat verify --network <ANY_NETWORK> <YOUR_CONTRACT_ADDRESS>
+```
 
 Help
 
