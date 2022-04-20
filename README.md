@@ -60,13 +60,13 @@ ETHERSCAN_API_KEY = "YOUR-ETHERSCAN_API_KEY"
  - [Solidity](https://docs.soliditylang.org/)
  - [Openzepplin](https://openzeppelin.com/)
 
-## Check on Rinkeby Explorer
+## Check out Explorer
 
 - [Eterscan Exploere](https://etherscan.io/)
 - [Rinkeby Explorer](https://rinkeby.etherscan.io/)
 - [Ropsten Explorer](https://ropsten.etherscan.io/)
 - [Polygon Explorer](https://polygonscan.com/)
-- [Polygon Explorer](https://mumbai.polygonscan.com/)
+- [Mumbai Explorer](https://mumbai.polygonscan.com/)
 ## Run Locally
 
 Clone the project
