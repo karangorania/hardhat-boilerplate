@@ -52,7 +52,7 @@ ETHERSCAN_API_KEY = "YOUR-ETHERSCAN_API_KEY"
 - [Ethers](https://www.npmjs.com/package/ethers)
 - [Ethereum-Waffle](https://www.npmjs.com/package/ethereum-waffle)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
-- [Hardhat-Etherscan]([https://www.npmjs.com/package/hardhat-etherscan](https://www.npmjs.com/package/@nomiclabs/hardhat-etherscan))
+- [Hardhat-Etherscan](https://www.npmjs.com/package/@nomiclabs/hardhat-etherscan)
 ## Tech Stack
 
  - [Node](https://nodejs.org/en/)
